@@ -22,8 +22,26 @@ Ing. Darwin Omar Alulema Flores
 
 # INFORME DE LA TAREA Nº 1
 
-# CAPITULO I Y II 
-
-# **1.OBJETIVOS**
+# CAPITULO III Y IV 
   
 </div>
+
+# **1.OBJETIVOS**
+
+# **2. MARCO TEORICO**
+
+
+**CAPITULO III**
+
+**CAPITULO IV**
+
+# **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
+* Problemas Capitulo  III
+
+# **4. VIDEO**
+
+# 5. CONCLUSIONES
+
+# **6. BIBLIOGRAFÍAS**
+
