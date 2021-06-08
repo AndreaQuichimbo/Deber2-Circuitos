@@ -26,22 +26,37 @@ Ing. Darwin Omar Alulema Flores
   
 </div>
 
-# **1.OBJETIVOS**
+# 1.OBJETIVOS
 
-# **2. MARCO TEORICO**
-
+# 2. MARCO TEORICO
 
 **CAPITULO III**
 
+<div align="center">
+
+**RESISTENCIA**  
+  
+</div>
+
 **CAPITULO IV**
+
+<div align="center">
+  
+**LEY DE EOHM, POTENCIA Y ENERGÍA**
+  
+![image](https://user-images.githubusercontent.com/84430867/121269033-b69e5480-c884-11eb-9e7e-0ad1bb85f234.png)
+  
+</div>
 
 # **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-* Problemas Capitulo  III
+**Problemas Capitulo  III**
 
-# **4. VIDEO**
+**Problemas Capitulo  IV**
+
+# 4. VIDEO
 
 # 5. CONCLUSIONES
 
-# **6. BIBLIOGRAFÍAS**
+# 6. BIBLIOGRAFÍAS
 
