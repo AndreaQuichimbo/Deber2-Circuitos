@@ -96,6 +96,8 @@ d. 0.5 cm
   
 </div>
 
+
+
 3. Una barra colectora de cobre sólido de 250 pies de longitud,que se muestraen la ﬁgura 3-34,se usa para conectar una fuente de voltaje a un panel de dis-tribución. Si la barra tiene una resistencia de 0.02 a 20°C,calcule la alturarequerida de la barra (en pulgadas).
 
 <div align="center">
@@ -272,7 +274,7 @@ c. Suponga que la función de resistencia frente a temperatura es lineal y de-te
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121428051-02133a00-c93b-11eb-888e-7a52fb2f08f6.png)
   
 </div>
 
@@ -322,7 +324,7 @@ a. El contacto deslizante esta en c.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121428397-5c13ff80-c93b-11eb-9f24-ca479c453e66.png)
   
 </div>
 
@@ -330,7 +332,8 @@ b. El contacto deslizante está a una quinta parte del trayecto de la superﬁci
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121428582-97aec980-c93b-11eb-85ef-f4603cefdae4.png)
+ 
   
 </div>
 
@@ -338,7 +341,8 @@ c. El contacto deslizante está a cuatro quintas partes del trayecto de la super
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121429079-202d6a00-c93c-11eb-941d-909b0b5c41ae.png)
+ 
   
 </div>
 
@@ -346,7 +350,8 @@ d. El contacto deslizante está en a.
 
 <div align="center">
 
-  
+ ![image](https://user-images.githubusercontent.com/84587293/121429176-3e936580-c93c-11eb-915a-e9d8964a717d.png)
+ 
   
 </div>
 
@@ -356,6 +361,7 @@ d. El contacto deslizante está en a.
 
 <div align="center">
 
+![image](https://user-images.githubusercontent.com/84587293/121429489-98942b00-c93c-11eb-8cae-bc7ca0530f4c.png)
   
   
 </div>
@@ -364,32 +370,32 @@ a. Café Verde Amarillo Plata
 
 <div align="center">
 
-  
-  
+![image](https://user-images.githubusercontent.com/84587293/121429832-f6287780-c93c-11eb-8c98-6bd6092e7dd2.png)
+    
 </div>
 
 b. Rojo Gris Oro Oro Amarillo
 
 <div align="center">
 
-  
-  
+![image](https://user-images.githubusercontent.com/84587293/121429885-080a1a80-c93d-11eb-9000-8138126240b1.png)
+   
 </div>
 
 c. Amarillo Violeta Azul Oro
 
 <div align="center">
 
-  
-  
+![image](https://user-images.githubusercontent.com/84587293/121430139-58817800-c93d-11eb-92cf-ae3f924f71b0.png)
+    
 </div>
 
 d. Naranja Blanco Negro Oro Rojo
 
 <div align="center">
 
-  
-  
+![image](https://user-images.githubusercontent.com/84587293/121430220-7222bf80-c93d-11eb-81ab-c3b8c042029a.png)
+   
 </div>
 
 **3-7 Medición de resistencia: el óhmetro**
@@ -398,7 +404,7 @@ d. Naranja Blanco Negro Oro Rojo
 
 <div align="center">
 
-  
+Se determina a través de óhmetro realizando una conexión entre las terminales, el óhmetro indica una conexión abierta la bombilla esta fundida. 
   
 </div>
 
@@ -414,9 +420,11 @@ d. Naranja Blanco Negro Oro Rojo
 
 <div align="center">
 
-  
+En la tabla se puede observar que la resistencia del alambre AWG24 tiene una resistencia de 25.7 ohms/1000 pies se podría medir la resistencia entre los extremos y calcular la longitud.
   
 </div>
+
+ ![image](https://user-images.githubusercontent.com/84587293/121430693-0725b880-c93e-11eb-9314-7d2b6901fbaf.png)
 
 **3-8 Termistores**
 
@@ -424,8 +432,8 @@ d. Naranja Blanco Negro Oro Rojo
 
 <div align="center">
 
-  
-  
+![image](https://user-images.githubusercontent.com/84587293/121431009-78656b80-c93e-11eb-8fa9-b2ce79fe564c.png)
+    
 </div>
 
 a. Determine la resistencia del dispositivo a temperatura ambiente,20°C.b.Determine la resistencia del dispositivo a 40°C.c.¿El termistor tiene un coeﬁciente de temperatura positivo o negativo?Explique.
@@ -473,9 +481,7 @@ a. Determine la resistencia del dispositivo a temperatura ambiente,20°C.b.Deter
 41. Un resistor de 0.27 k   es especiﬁcado en 2 W. Calcule el máximo voltaje quese le puede aplicar y la máxima corriente que puede llevar sin exceder su especiﬁcación.
 
 <div align="center">
-
-  
-  
+    
 </div>
 
 43. Un resistor de 25  se conecta a un suministro de energía cuyo voltaje es de100 V + 5%. ¿Cuál es el posible intervalo de potencia disipada por el resistor?
