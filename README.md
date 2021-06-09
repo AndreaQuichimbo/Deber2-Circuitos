@@ -14,7 +14,9 @@ Quichimbo Simba Andrea Estefania
 
 Titoaña Tigse Leslie Brigitte
 
-NRC:5418
+NRC
+  
+5418
 
 INGENIERO
 
@@ -46,6 +48,8 @@ Ing. Darwin Omar Alulema Flores
   
 ![image](https://user-images.githubusercontent.com/84430867/121269033-b69e5480-c884-11eb-9e7e-0ad1bb85f234.png)
   
+![image](https://user-images.githubusercontent.com/84430867/121273526-13523d00-c88e-11eb-976d-58fd708909ef.png)
+
 </div>
 
 # **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
