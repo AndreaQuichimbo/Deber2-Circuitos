@@ -402,11 +402,7 @@ d. Naranja Blanco Negro Oro Rojo
 
 37. Explique cómo se puede usar un óhmetro para determinar si un foco se fundió.
 
-<div align="center">
-
 Se determina a través de óhmetro realizando una conexión entre las terminales, el óhmetro indica una conexión abierta la bombilla esta fundida. 
-  
-</div>
 
 38. Si un óhmetro fuera colocado entre las terminales de un interruptor,¿qué resistencia esperaría medir cuando los contactos del interruptor estén cerrados ycuando estén abiertos?
 
@@ -418,13 +414,9 @@ Se determina a través de óhmetro realizando una conexión entre las terminales
 
 39. Explique cómo podría usar un óhmetro para determinar aproximadamentecuánto cable queda en un carrete de alambre de cobre AWG 24.
 
-<div align="center">
-
 En la tabla se puede observar que la resistencia del alambre AWG24 tiene una resistencia de 25.7 ohms/1000 pies se podría medir la resistencia entre los extremos y calcular la longitud.
-  
-</div>
 
- ![image](https://user-images.githubusercontent.com/84587293/121430693-0725b880-c93e-11eb-9314-7d2b6901fbaf.png)
+![image](https://user-images.githubusercontent.com/84587293/121430693-0725b880-c93e-11eb-9314-7d2b6901fbaf.png)
 
 **3-8 Termistores**
 
