@@ -38,6 +38,10 @@ Ing. Darwin Omar Alulema Flores
 
 **RESISTENCIA**  
   
+![image](https://user-images.githubusercontent.com/84587293/121412513-6974be00-c92a-11eb-89e9-2bb399e430d3.png)
+
+![image](https://user-images.githubusercontent.com/84587293/121416149-169d0580-c92e-11eb-81f6-6064742b49b1.png)
+
 </div>
 
 **CAPITULO IV**
