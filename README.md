@@ -750,3 +750,13 @@ b. El cursor se puede posicionar usado el ratón o las teclas de ﬂecha izquier
 
 # 6. BIBLIOGRAFÍAS
 
+Blanco, T. A. (s.f.). BBVA. Obtenido de ¿Qué es y cómo calcular la potencia eléctrica?: https://www.bbva.com/es/sostenibilidad/que-es-y-como-calcular-la-potencia-electrica/
+
+eduMedia. (s.f.). Obtenido de Potencia y energía eléctrica: https://www.edumedia-sciences.com/es/media/657-potencia-y-energia-electrica
+
+FISICALAB. (s.f.). Obtenido de Potencia: https://www.fisicalab.com/apartado/potencia-fisica
+
+Gouveia, R. (s.f.). TodaMateria. Obtenido de Ley de Ohm: https://www.todamateria.com/ley-de-ohm/
+
+
+
