@@ -62,7 +62,7 @@ a. 0.5 mm
 
 <div align="center">
 
-  
+ ![image](https://user-images.githubusercontent.com/84587293/121292094-00039980-c8af-11eb-9161-e63af8a5efaf.png) 
   
 </div>
   
@@ -70,7 +70,7 @@ b. 1.0 mm
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121292238-3d682700-c8af-11eb-8a39-c9b472229aff.png)  
   
 </div>
 
@@ -78,7 +78,7 @@ c. 0.005 mm
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121292290-55d84180-c8af-11eb-8bbf-eca365856bb4.png)  
   
 </div>
 
@@ -86,7 +86,7 @@ d. 0.5 cm
 
 <div align="center">
 
-  
+ ![image](https://user-images.githubusercontent.com/84587293/121292359-71dbe300-c8af-11eb-8c92-440ef961f311.png)
   
 </div>
 
@@ -94,7 +94,7 @@ d. 0.5 cm
 
 <div align="center">
 
-  
+  ![image](https://user-images.githubusercontent.com/84587293/121292402-83bd8600-c8af-11eb-9b4d-28d629435a9d.png)
   
 </div>
 
@@ -102,7 +102,7 @@ d. 0.5 cm
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121292552-c2ebd700-c8af-11eb-84d6-dd6d25b7065a.png)  
   
 </div>
 
@@ -110,15 +110,15 @@ d. 0.5 cm
 
 <div align="center">
 
-  
-  
+![image](https://user-images.githubusercontent.com/84587293/121292702-047c8200-c8b0-11eb-8b53-29dc74fbc6d2.png)
+ 
 </div>
 
 9. Una sección de 2500 m de alambre de aleación tiene una resistencia de 32  .Si el alambre tiene un diámetro de 1.5 mm,determine la resistividad del ma-terial en ohm-metros. ¿La aleación es mejor conductora que el cobre?
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121292853-40174c00-c8b0-11eb-89c3-4ebfa5a126c3.png) 
   
 </div>
 
@@ -128,7 +128,7 @@ d. 0.5 cm
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121292953-6937dc80-c8b0-11eb-8789-4f69e43a6a7b.png)  
   
 </div>
 
@@ -136,16 +136,16 @@ d. 0.5 cm
 
 <div align="center">
 
-  
-  
+![image](https://user-images.githubusercontent.com/84587293/121293001-866cab00-c8b0-11eb-8036-8ced9ff52c2b.png)
+
 </div>
 
 15. Se determina que un carrete de alambre de transformador de cobre AWG 36tiene una resistencia de 550 a una temperatura de 20°C. ¿Cuánto mide elalambre en metros?
 
 <div align="center">
 
-  
-  
+![image](https://user-images.githubusercontent.com/84587293/121293057-9a181180-c8b0-11eb-932f-f9c9d94fe5ba.png)
+
 </div>
 
 **3-3 Resistencia de alambres: milésima circular**
@@ -154,7 +154,7 @@ d. 0.5 cm
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121293080-a69c6a00-c8b0-11eb-82eb-a401e49fcc1f.png)  
   
 </div>
 
@@ -162,7 +162,7 @@ a. Alambre circular con un diámetro de 0.016 pulgadas
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121293109-b320c280-c8b0-11eb-8177-e333599dca0e.png)
   
 </div>
 
@@ -170,7 +170,7 @@ b. Alambre circular con un diámetro de 2.0 mm
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121293138-bfa51b00-c8b0-11eb-8568-8db11f52bcc5.png) 
   
 </div>
 
@@ -178,31 +178,25 @@ c. Barra colectora rectangular de 0.25 x 6.0 pulgadas
 
 <div align="center">
 
-  
-  
+![image](https://user-images.githubusercontent.com/84587293/121293161-c895ec80-c8b0-11eb-8dbc-ee4610c864dd.png)
+ 
 </div>
 
-19. Calcule la resistencia,a 20°C,de 400 pies de conductores de cobre que tienelas mismas áreas de sección transversal que las del problema 17.
+19. Calcule la resistencia,a 20°C, de 400 pies de conductores de cobre que tienelas mismas áreas de sección transversal que las del problema 17.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121293574-75706980-c8b1-11eb-8aea-26f308dfd7a7.png)  
   
 </div>
 
 21. Un alambre de cobre sólido de 200 pies tiene una resistencia de 0.500.
 
-<div align="center">
-
-  
-  
-</div>
-
 a. Determine el área de sección transversal del alambre en milésimas cuadra-das y milésimas circulares.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121293687-a51f7180-c8b1-11eb-8139-73f0572a4c60.png)  
   
 </div>
 
@@ -210,23 +204,17 @@ b. Determine el diámetro del alambre en milésimas y en pulgadas.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121293715-afda0680-c8b1-11eb-8f4d-394d4d2c891c.png)  
   
 </div>
 
 23. Un carrete de alambre de cobre sólido con un diámetro de 0.040 pulgadastiene una resistencia de 12.5 (a una temperatura de 20°C).
 
-<div align="center">
-
-  
-  
-</div>
-
 a. Determine el área de sección transversal en milésimas cuadradas y milésimas circulares.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121293765-c97b4e00-c8b1-11eb-8985-1ef18fcb1f32.png)  
   
 </div>
 
@@ -234,7 +222,7 @@ b. Calcule la longitud del alambre en pies.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121293783-d435e300-c8b1-11eb-8cde-9dfe35246e35.png)  
   
 </div>
 
@@ -244,31 +232,17 @@ b. Calcule la longitud del alambre en pies.
 
 <div align="center">
 
-  
-  
-</div>
-
-27. Cierto material tiene una resistencia de 20 a temperatura ambiente (20°C) y25
-
-<div align="center">
-
-  
+![image](https://user-images.githubusercontent.com/84587293/121293888-08a99f00-c8b2-11eb-964d-5e72426e229e.png)  
   
 </div>
 
-a una temperatura de 85°C.
-
-<div align="center">
-
-  
-  
-</div>
+27. Cierto material tiene una resistencia de 20 a temperatura ambiente (20°C) y25 a una temperatura de 85° C.
 
 a. ¿El material tiene un coeﬁciente de temperatura positivo o negativo? Ex-plique brevemente.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121294025-4f979480-c8b2-11eb-9e06-4b58ddc5091c.png)   
   
 </div>
 
@@ -276,7 +250,7 @@ b. Determine al valor del coeﬁciente de temperatura,a ,a 20°C.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121294186-95ecf380-c8b2-11eb-8e3d-4e8c13f9b4ad.png)  
   
 </div>
 
@@ -284,7 +258,7 @@ c. Suponga que la función de resistencia frente a temperatura es lineal y de-te
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121294224-a00ef200-c8b2-11eb-86b1-9ba710ea99f8.png)
   
 </div>
 
