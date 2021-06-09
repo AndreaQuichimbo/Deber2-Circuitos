@@ -180,8 +180,7 @@ a. Determine la resistencia del dispositivo a temperatura ambiente,20°C.b.Deter
 
 41. Un resistor de 0.27 k   es especiﬁcado en 2 W. Calcule el máximo voltaje quese le puede aplicar y la máxima corriente que puede llevar sin exceder su especiﬁcación.
 
-43. Un resistor de 25  se conecta a un suministro de energía cuyo voltaje es de100 V
- 5%. ¿Cuál es el posible intervalo de potencia disipada por el resistor?
+43. Un resistor de 25  se conecta a un suministro de energía cuyo voltaje es de100 V + 5%. ¿Cuál es el posible intervalo de potencia disipada por el resistor?
 
 **4-4 Convención de la dirección de la potencia**
 
@@ -189,29 +188,29 @@ a. Determine la resistencia del dispositivo a temperatura ambiente,20°C.b.Deter
 
 **4-5 Energía**
 
-47.Una lámpara de seguridad nocturna de 40 W se enciende por 9 horas
+47. Una lámpara de seguridad nocturna de 40 W se enciende por 9 horas
 
-a.Determine la energía usada en joules.
+a. Determine la energía usada en joules.
 
-b.Determine la energía usada en watts-hora.
+b. Determine la energía usada en watts-hora.
 
-c.A $0.08/kWh,¿cuánto cuesta encender esta lámpara por 9 horas?
+c. A $0.08/kWh,¿cuánto cuesta encender esta lámpara por 9 horas?
 
-49.Determine el costo total por usar los siguientes aparatos a $0.11 por kWh:
+49. Determine el costo total por usar los siguientes aparatos a $0.11 por kWh:
 
-a.Un tostador de 900 W por 5 minutos.
+a. Un tostador de 900 W por 5 minutos.
 
-b.Un calentador de 120 V y 8 A por 1.7 horas.
+b. Un calentador de 120 V y 8 A por 1.7 horas.
 
-c.Un lavaplatos de 1100 W por 36 minutos.
+c. Un lavaplatos de 1100 W por 36 minutos.
 
-d.Un cautín de 120 V y 288 por 24 minutos.
+d. Un cautín de 120 V y 288 por 24 minutos.
 
 51. Mientras el dispositivo del problema 50 opera,otras dos cargas también lo hacen:
 
-a.un calentador de 4 kW,de forma continua.
+a. un calentador de 4 kW,de forma continua.
 
-b.un calentador de 3.6 kW 12 horas al día.
+b. un calentador de 3.6 kW 12 horas al día.
 
 Calcule el costo anual de poner a funcionar todas las cargas.
 
@@ -231,30 +230,34 @@ Calcule el costo anual de poner a funcionar todas las cargas.
 
   </div>
 
-63.Un motor de cd de 120 V opera una bomba a través de una caja de engranes (ﬁgura 4-24).  Si la potencia de entrada a la bomba es de 1100 W, la caja deengranes tiene una eﬁciencia de 75% y la potencia de entrada al motor esde 1600 W, determine los caballos de potencia de salida del motor.
+63. Un motor de cd de 120 V opera una bomba a través de una caja de engranes (ﬁgura 4-24).  Si la potencia de entrada a la bomba es de 1100 W, la caja deengranes tiene una eﬁciencia de 75% y la potencia de entrada al motor esde 1600 W, determine los caballos de potencia de salida del motor.
 
 65. Si la eﬁciencia total de una estación radiotransmisora es de 55% y transmite a 35 kW por 24 h/día, calcule el costo de energía que usa cada día a$0.09/kWh.
-66. 
 
 **4-7 Resistencias no lineales y dinámicas**
 
-67.Un resistor que depende de voltaje tiene la característica I-V de la ﬁgura 4-41.
+67. Un resistor que depende de voltaje tiene la característica I-V de la ﬁgura 4-41.
 
-a.En V = 25 V, ¿cuánto valen I y Rcd?
+a. En V = 25 V, ¿cuánto valen I y Rcd?
 
-b.En V= 60 V, ¿cuánto valen I y Rcd?
+b. En V= 60 V, ¿cuánto valen I y Rcd?
 
-c.¿Por qué los dos valores son diferentes?
+c. ¿Por qué los dos valores son diferentes?
 
 **4-8 Análisis de circuitos con ayuda de la computadora**
 
-69.Establezca el circuito de la ﬁgura 4-33 y resuelva para las corrientes dado elpar voltaje/resistencia del problema 1a, 1c, 1d y 1e.
+69. Establezca el circuito de la ﬁgura 4-33 y resuelva para las corrientes dado elpar voltaje/resistencia del problema 1a, 1c, 1d y 1e.
 
  
 71.Haga clic en Coloca (Place) en la barra de menú; haga clic en Componente (Component); de la lista de Grupo (Group), seleccione Básico (Basic), desplácese hacia abajo y haga clic en Interruptor (Switch); seleccione SPDT, entonces haga clic en OK. Coloque en la pantalla y haga doble clic en susímbolo. Cuando la caja de diálogo se abra, seleccione la etiqueta Valor (Value), tecleé la letra A y haga clic en OK. 
 [ Esto reetiqueta el interruptor como (A). Presione la tecla A varias veces y observe que el interruptor abre ycierra.] Seleccione un segundo interruptor y etiquételo (B). Agregue unafuente de cd de 12 V y una lámpara. Para agregar la lámpara haga clic en Co-loca/Componente (Place/Component) y a partir de la caja de Grupo (Group), seleccione Lámpara_virtual (Virtual_lamp). Arme el circuito de la ﬁgura2-27, opere los interruptores y determine si consiguió exitosamente el controlde dos vías.
 
+73. Repita el problema 70 con PSpice.
 
+75. El cursor puede usarse para leer valores desde las gráﬁcas de PSpice. Obtengala gráﬁca del problema 74 en la pantalla y:
+a. Haga clic en Trazar (Trace) en la barra de menú, seleccione Cursor, haga clic en Despliegue (Display), entonces posicione el cursor en la gráﬁca y de nuevo haga clic. La lectura del cursor está indicada en la caja en la esquina inferior derecha de la pantalla.
+
+b. El cursor se puede posicionar usado el ratón o las teclas de ﬂecha izquierda y derecha. Posicione el cursor en 2 V y lea la corriente. Verifíquelo mediante la ley de Ohm. Coteje el valor en otros puntos tanto positivoscomo negativos
 
 
 
