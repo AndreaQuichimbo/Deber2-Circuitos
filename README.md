@@ -22,7 +22,7 @@ INGENIERO
 
 Ing. Darwin Omar Alulema Flores
 
-# INFORME DE LA TAREA Nº 1
+# INFORME DE LA TAREA Nº 2
 
 # CAPITULO III Y IV 
   
