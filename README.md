@@ -662,7 +662,7 @@ Calcule el costo anual de poner a funcionar todas las cargas.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121437042-41e01e80-c947-11eb-808d-cc2b6fc6e593.png)  
   
 </div>
 
@@ -684,11 +684,7 @@ b. En V= 60 V, ¿cuánto valen I y Rcd?
 
 c. ¿Por qué los dos valores son diferentes?
 
-<div align="center">
-
-  
-  
-</div>
+Porque la Intensidad en **b** es mayor que la intensidad en **a** al igual que sus resistencias .
 
 **4-8 Análisis de circuitos con ayuda de la computadora**
 
