@@ -428,51 +428,103 @@ En la tabla se puede observar que la resistencia del alambre AWG24 tiene una res
 
 a. Determine la resistencia del dispositivo a temperatura ambiente,20°C.b.Determine la resistencia del dispositivo a 40°C.c.¿El termistor tiene un coeﬁciente de temperatura positivo o negativo?Explique.
 
-<div align="center">
+<div align="cnte*r">
 
   
   
 </div>
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/1.png)
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/2.png)
+3.11 Conductancia
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/3.png)
+![43](https://user-images.githubusercontent.com/84587172/121587577-9690a180-c9fa-11eb-89a2-88ec0951d683.png)
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/4.png)
+45.-Determine la conductancia de 1000 m de alambre de cobre solido AWG 30 a una temperatura de 20 °C.
+Tamaño AWG = 30
+Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/5.png)
+![45](https://user-images.githubusercontent.com/84587172/121587759-c2138c00-c9fa-11eb-9c71-8d1c6859e7c9.png)
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/6.png)
+#  PROBLEMAS CAPÍTULO 4
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/7.png)
+4.1 LEY DE OHM
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/8.png)
+1.	Para el circuito de la figura 4.33, determine la corriente I para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: amperes, miliamperes, microamperes, etcétera.
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/9.png)
+![image](https://user-images.githubusercontent.com/84587172/121588064-1585da00-c9fb-11eb-9ed7-54df091f2f75.png)
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/10.png)
+![1](https://user-images.githubusercontent.com/84587172/121588266-554cc180-c9fb-11eb-9cb6-eac6b4702172.png)
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/11.png)
+3.- Para el circuito de la figura 4.33, calcule V para cada uno de los siguientes incisos:
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/12.png)
+![3](https://user-images.githubusercontent.com/84587172/121588406-7dd4bb80-c9fb-11eb-95de-14a3fc96d964.png)
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/13.png)
+5.- Cuando se conecta una lámpara eléctrica a un contacto de pared de 120V, requiere 1.25 A.
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/14.png)
+![5](https://user-images.githubusercontent.com/84587172/121588641-c68c7480-c9fb-11eb-9863-525b2a8d9080.png)
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/15.png)
+7.-¿Cuánto voltaje se puede aplicar a un resistor de 560 Ω, si la corriente no debe exceder de 50mA?
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/16.png)
+![7](https://user-images.githubusercontent.com/84587172/121588750-e91e8d80-c9fb-11eb-8d71-cb84c9fc27cd.png)
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/17.png)
+9.- En la figura 4-33, si E = 30V y la conductancia del resistor e de 0.2 S. ¿Cuál es el valor de I? Sugerencia véase la sección 3-11 en el capítulo 3
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/18.png)
+![9](https://user-images.githubusercontent.com/84587172/121588884-0bb0a680-c9fc-11eb-9368-6a385d508a0c.png)
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/19.png)
+11.-La corriente a través de un resistor es de 15 mA. Si la caída de voltaje en el resistor es de 33 V, ¿Cuál es su código de colores?
 
-![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/20.png)
+![11](https://user-images.githubusercontent.com/84587172/121588993-2be06580-c9fc-11eb-83d2-61073ac89f3b.png)
+
+13.-En el circuito de la figura 4.34, si el resistor es reemplazado por otro con bandas roja, roja y negra ¿A qué voltaje cree que se funda el fusible?
+
+![13](https://user-images.githubusercontent.com/84587172/121589072-43b7e980-c9fc-11eb-9224-6dfd379e9c30.png)
+
+15.- Un electroimán se devana con alambre de cobre AWG 30. La bobina tiene 800 vueltas y la longitud promedio de cada una de las 3 pulgadas. Cuando se conecta una fuente de cd de 48V ¿Cuál es la corriente?
+
+![15](https://user-images.githubusercontent.com/84587172/121589243-77930f00-c9fc-11eb-9a29-a3eab4a9a5bc.png)
+
+17.-Un elemento resistivo está hecho de 100 m de alambre de aluminio con un diámetro de 0.5 mm. Si la corriente a 20 °C es de 200 mA ¿Cuál es el voltaje aplicado?
+
+![17 -](https://user-images.githubusercontent.com/84587172/121589405-a1e4cc80-c9fc-11eb-9e98-a00f0723c5ba.png)
+
+19.-La figura 4-35 representa la gráfica I-V para el circuito de la figura 4-33. ¿Cuál es el valor de R? 
+
+![19](https://user-images.githubusercontent.com/84587172/121589554-ce004d80-c9fc-11eb-895a-b03b4cc0fb32.png)
+
+21.-En un circuito resistivo, E = 100V. Si R se duplica y E se cambia para que la nueva sea el doble de la corriente original ¿Cuál es el nuevo valor de E? 
+
+![21](https://user-images.githubusercontent.com/84587172/121589620-e6706800-c9fc-11eb-88fb-3293079e34a1.png)
+
+23.-Si 25m de alambre de nicromo con un diámetro de 0.1 mm se conectan a una batería de 12 V, ¿Cuál es la corriente a  20 °C?
+
+![23](https://user-images.githubusercontent.com/84587172/121589680-fab46500-c9fc-11eb-8217-f20fa7a53512.png)
+
+25.-Para cada resistor de la figura 4-36, determine el voltaje V y su polaridad o la corriente I, así como su dirección cuando sea posible.
+
+![25](https://user-images.githubusercontent.com/84587172/121589796-1ddf1480-c9fd-11eb-901d-d18dc6d08b6e.png)
+
+4.3 Potencia
+
+27.- Un resistor disipa 723 joules de energía en 3 minutos y 47 segundos. Calcule la tasa a la cual la energía se transfiere a este resistor en joules por segundo. ¿Cuál es la energía disipada en watts?
+
+![27](https://user-images.githubusercontent.com/84587172/121589893-3d763d00-c9fd-11eb-8a0b-09e8cca42819.png)
+
+29.-Un resistor obtiene 3 A de una batería de 12 V. ¿Cuánta potencia entrega la batería al resistor?
+
+![29](https://user-images.githubusercontent.com/84587172/121589967-58e14800-c9fd-11eb-80d5-a4c238b5cd24.png)
+
+31.-Un calentador eléctrico de 1.2 kW tiene una resistencia de 6 Ω. ¿Cuánta corriente requiere?
+
+![31](https://user-images.githubusercontent.com/84587172/121590034-70b8cc00-c9fd-11eb-8aee-2a6348834214.png)
+
+33.-¿Cuántos volts se deben aplicar a un resistor de 3 Ω para que resulte una disipación de potencia de 752 W?
+
+![33](https://user-images.githubusercontent.com/84587172/121590088-8201d880-c9fd-11eb-9857-1304a831625e.png)
+
+35.-Un resistor con bandas café, negro y naranja disipa 0.25 W. Calcule su voltaje y su corriente
+R = 10 000 Ω = 10 k Ω
+
+![35](https://user-images.githubusercontent.com/84587172/121590154-980f9900-c9fd-11eb-9c88-6cc348b1358e.png)
 
 37. Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V?
 
