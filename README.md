@@ -450,37 +450,39 @@ a. Determine la resistencia del dispositivo a temperatura ambiente,20°C.b.Deter
 
 <div align="center">
 
-  
-  
+![image](https://user-images.githubusercontent.com/84430867/121451915-128bda80-c964-11eb-886f-4ce73d83f76f.png)
+ 
 </div>
 
 37. Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V?
 
 <div align="center">
-
-  
-  
+ 
+![image](https://user-images.githubusercontent.com/84430867/121451977-39e2a780-c964-11eb-93fc-660448b34900.png)
+ 
 </div>
 
 39. Un motor entrega 3.56 hp a una carga. ¿Cuántos watts son?
 
 <div align="center">
 
-  
-  
+![image](https://user-images.githubusercontent.com/84430867/121452379-f177b980-c964-11eb-9e6e-f37523790786.png)
+ 
 </div>
 
 41. Un resistor de 0.27 k   es especiﬁcado en 2 W. Calcule el máximo voltaje quese le puede aplicar y la máxima corriente que puede llevar sin exceder su especiﬁcación.
 
 <div align="center">
-    
+
+![image](https://user-images.githubusercontent.com/84430867/121452573-4a475200-c965-11eb-8cc0-75dfbb152afa.png)
+
 </div>
 
 43. Un resistor de 25  se conecta a un suministro de energía cuyo voltaje es de100 V + 5%. ¿Cuál es el posible intervalo de potencia disipada por el resistor?
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84430867/121451708-aa3cf900-c963-11eb-8545-83b63f5420c7.png)  
   
 </div>
 
@@ -490,7 +492,7 @@ a. Determine la resistencia del dispositivo a temperatura ambiente,20°C.b.Deter
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84430867/121453949-9dba9f80-c967-11eb-81bb-59da03451a7e.png)  
   
 </div>
 
@@ -498,17 +500,11 @@ a. Determine la resistencia del dispositivo a temperatura ambiente,20°C.b.Deter
 
 47. Una lámpara de seguridad nocturna de 40 W se enciende por 9 horas
 
-<div align="center">
-
-  
-  
-</div>
-
 a. Determine la energía usada en joules.
 
 <div align="center">
-
   
+![image](https://user-images.githubusercontent.com/84430867/121454214-073aae00-c968-11eb-988b-451eb9581368.png)
   
 </div>
 
@@ -516,7 +512,7 @@ b. Determine la energía usada en watts-hora.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84430867/121454264-14579d00-c968-11eb-9b78-bd5cfac09cc4.png)
   
 </div>
 
@@ -524,23 +520,17 @@ c. A $0.08/kWh,¿cuánto cuesta encender esta lámpara por 9 horas?
 
 <div align="center">
 
-  
-  
+![image](https://user-images.githubusercontent.com/84430867/121454289-233e4f80-c968-11eb-9264-93f16e90a480.png)
+ 
 </div>
 
 49. Determine el costo total por usar los siguientes aparatos a $0.11 por kWh:
-
-<div align="center">
-
-  
-  
-</div>
 
 a. Un tostador de 900 W por 5 minutos.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84430867/121455270-c93e8980-c969-11eb-9571-005a8cae3a7d.png)
   
 </div>
 
@@ -548,39 +538,35 @@ b. Un calentador de 120 V y 8 A por 1.7 horas.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84430867/121456218-58986c80-c96b-11eb-979b-e794114de75d.png)
   
 </div>
 
 c. Un lavaplatos de 1100 W por 36 minutos.
 
 <div align="center">
-
   
-  
+![image](https://user-images.githubusercontent.com/84430867/121456463-bdec5d80-c96b-11eb-876e-ea0e88368212.png)
+ 
 </div>
 
 d. Un cautín de 120 V y 288 por 24 minutos.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84430867/121457089-b8434780-c96c-11eb-97fb-7d22f3b3e212.png)
   
 </div>
+
+El total a pagar es de 26,03 centavos
 
 51. Mientras el dispositivo del problema 50 opera,otras dos cargas también lo hacen:
-
-<div align="center">
-
-  
-  
-</div>
-
+52. 
 a. un calentador de 4 kW,de forma continua.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84430867/121457398-399ada00-c96d-11eb-8f91-08686385777c.png)
   
 </div>
 
@@ -589,8 +575,8 @@ b. un calentador de 3.6 kW 12 horas al día.
 Calcule el costo anual de poner a funcionar todas las cargas.
 
 <div align="center">
-
   
+![image](https://user-images.githubusercontent.com/84430867/121457422-44ee0580-c96d-11eb-9cbf-2d138c4f1c5f.png)
   
 </div>
 
@@ -598,7 +584,7 @@ Calcule el costo anual de poner a funcionar todas las cargas.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84430867/121457695-b3cb5e80-c96d-11eb-9080-fcefc0da2e8f.png)
   
 </div>
 
@@ -606,7 +592,7 @@ Calcule el costo anual de poner a funcionar todas las cargas.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84430867/121457829-ee34fb80-c96d-11eb-9a58-a3e41a0231ed.png)  
   
 </div>
 
@@ -614,7 +600,7 @@ Calcule el costo anual de poner a funcionar todas las cargas.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84430867/121459402-cabf8000-c970-11eb-9de0-014dffc44f44.png)
   
 </div>
 
@@ -622,29 +608,25 @@ Calcule el costo anual de poner a funcionar todas las cargas.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84430867/121459480-f7739780-c970-11eb-9eef-d1194441641d.png)
   
 </div>
 
 61. El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de 48 V, una unidad de control/manejo electrónica yel motor (ﬁgura 4-40). Si se requieren 180 A de las baterías ¿cuántos caballosde potencia se suministran a la tracción del vehículo?
 
 <div align="center">
-
-  
-  
-</div>
-
-<div align="center">
   
 ![image](https://user-images.githubusercontent.com/84587293/121289583-cb8dde80-c8aa-11eb-98c0-e7db6bd44b6d.png)
 
-  </div>
+![image](https://user-images.githubusercontent.com/84430867/121460174-1aeb1200-c972-11eb-9f75-cc0985237af3.png)
+
+</div>
 
 63. Un motor de cd de 120 V opera una bomba a través de una caja de engranes (ﬁgura 4-24).  Si la potencia de entrada a la bomba es de 1100 W, la caja deengranes tiene una eﬁciencia de 75% y la potencia de entrada al motor esde 1600 W, determine los caballos de potencia de salida del motor.
 
 <div align="center">
-
   
+![image](https://user-images.githubusercontent.com/84430867/121460257-440ba280-c972-11eb-96b0-efe59b03d467.png)
   
 </div>
 
@@ -652,7 +634,7 @@ Calcule el costo anual de poner a funcionar todas las cargas.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84430867/121460769-2559db80-c973-11eb-8d7d-b069241eda74.png)  
   
 </div>
 
