@@ -491,8 +491,6 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 ![19](https://user-images.githubusercontent.com/84587172/121589554-ce004d80-c9fc-11eb-895a-b03b4cc0fb32.png)
 
-21.-En un circuito resistivo, E = 100V. Si R se duplica y E se cambia para que la nueva sea el doble de la corriente original ¿Cuál es el nuevo valor de E? 
-
 ![21](https://user-images.githubusercontent.com/84587172/121589620-e6706800-c9fc-11eb-88fb-3293079e34a1.png)
 
 23.-Si 25m de alambre de nicromo con un diámetro de 0.1 mm se conectan a una batería de 12 V, ¿Cuál es la corriente a  20 °C?
