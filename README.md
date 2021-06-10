@@ -96,8 +96,6 @@ d. 0.5 cm
   
 </div>
 
-
-
 3. Una barra colectora de cobre sólido de 250 pies de longitud,que se muestraen la ﬁgura 3-34,se usa para conectar una fuente de voltaje a un panel de dis-tribución. Si la barra tiene una resistencia de 0.02 a 20°C,calcule la alturarequerida de la barra (en pulgadas).
 
 <div align="center">
