@@ -34,6 +34,9 @@ Ing. Darwin Omar Alulema Flores
 
 **CAPITULO III**
 
+![image](https://user-images.githubusercontent.com/84587172/121600455-17a36500-ca0a-11eb-9785-854241344f05.png)
+
+
 <div align="center">
 
 **RESISTENCIA**  
