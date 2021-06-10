@@ -436,23 +436,45 @@ a. Determine la resistencia del dispositivo a temperatura ambiente,20°C.b.Deter
   
 </div>
 
-**Problemas Capitulo  IV**
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/1.png)
 
-33. ¿Cuántos volts se deben aplicar a un resistor de 3  para que resulte una disi-pación de potencia de 752 W?
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/2.png)
 
-<div align="center">
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/3.png)
 
-  
-  
-</div>
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/4.png)
 
-35. Un resistor con bandas café, negro y naranja disipa 0.25 W. Calcule su voltaje y su corriente.
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/5.png)
 
-<div align="center">
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/6.png)
 
-![image](https://user-images.githubusercontent.com/84430867/121451915-128bda80-c964-11eb-886f-4ce73d83f76f.png)
- 
-</div>
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/7.png)
+
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/8.png)
+
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/9.png)
+
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/10.png)
+
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/11.png)
+
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/12.png)
+
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/13.png)
+
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/14.png)
+
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/15.png)
+
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/16.png)
+
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/17.png)
+
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/18.png)
+
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/19.png)
+
+![](https://github.com/AndreaQuichimbo/Deber2-Circuitos/blob/main/20.png)
 
 37. Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V?
 
