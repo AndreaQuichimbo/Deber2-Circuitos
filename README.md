@@ -41,19 +41,17 @@ Ing. Darwin Omar Alulema Flores
 # 2. MARCO TEORICO
 
 **CAPITULO III**
+<div align="center">
 
+**RESISTENCIA** 
+  
 ![image](https://user-images.githubusercontent.com/84587172/121600455-17a36500-ca0a-11eb-9785-854241344f05.png)
 
 ![image](https://user-images.githubusercontent.com/84587172/121609350-4117bd00-ca19-11eb-9702-7718742a54fd.png)
 
 ![image](https://user-images.githubusercontent.com/84587172/121610325-61e11200-ca1b-11eb-9942-23c2633bed52.png)
 
-![image](https://user-images.githubusercontent.com/84587172/121618890-3c5d0400-ca2d-11eb-9c1c-033080c991c4.png)
-
-
-<div align="center">
-
-**RESISTENCIA**  
+![image](https://user-images.githubusercontent.com/84587172/121618890-3c5d0400-ca2d-11eb-9c1c-033080c991c4.png) 
   
 ![image](https://user-images.githubusercontent.com/84587293/121412513-6974be00-c92a-11eb-89e9-2bb399e430d3.png)
 
@@ -79,7 +77,7 @@ Ing. Darwin Omar Alulema Flores
 
 # **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-**Problemas Capitulo  III**
+# Problemas Capitulo  III
 
 1. Determine la resistencia, a 20°C, de 100m de alambre de aluminio sólido que tiene los siguientes radios: 
 
