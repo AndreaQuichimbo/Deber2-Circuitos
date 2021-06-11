@@ -113,7 +113,7 @@ d. 0.5 cm
   
 </div>
 
-3. Una barra colectora de cobre sólido de 250 pies de longitud,que se muestraen la ﬁgura 3-34,se usa para conectar una fuente de voltaje a un panel de dis-tribución. Si la barra tiene una resistencia de 0.02 a 20°C,calcule la alturarequerida de la barra (en pulgadas).
+3. Una barra colectora de cobre sólido de 250 pies de longitud,que se muestraen la ﬁgura 3-34,se usa para conectar una fuente de voltaje a un panel de dis-tribución. Si la barra tiene una resistencia de 0.02 Ω a 20°C,calcule la alturarequerida de la barra (en pulgadas).
 
 <div align="center">
 
@@ -123,7 +123,7 @@ d. 0.5 cm
 
 </div>
 
-5. Un alambre de cobre con un diámetro de 0.80 mm tiene una resistencia de10.3 a 20°C. ¿Cuanto mide el alambre en metros y en pies?
+5. Un alambre de cobre con un diámetro de 0.80 mm tiene una resistencia de 10.3 Ω a 20°C. ¿Cuanto mide el alambre en metros y en pies?
 
 <div align="center">
 
@@ -131,7 +131,7 @@ d. 0.5 cm
   
 </div>
 
-7. Determine la resistividad (en ohm-metros) de un cilindro de graﬁto con basede carbón que tiene una longitud de 6.00 cm,un diámetro de 0.50 mm y unaresistencia medida de 3.0 a 20°C. ¿Cómo se compara este valor con la re-sistividad que se reporta para el carbón?
+7. Determine la resistividad (en ohm-metros) de un cilindro de graﬁto con basede carbón que tiene una longitud de 6.00 cm,un diámetro de 0.50 mm y unaresistencia medida de 3.0 Ω a 20°C. ¿Cómo se compara este valor con la re-sistividad que se reporta para el carbón?
 
 <div align="center">
 
@@ -295,7 +295,7 @@ c. Suponga que la función de resistencia frente a temperatura es lineal y de-te
   
 </div>
 
-31. Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El disposi-tivo tiene una resistencia de 120  a una temperatura de  20°C y de 190  a120°C.
+31. Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El disposi-tivo tiene una resistencia de 120 Ω a una temperatura de - 20°C y de 190 Ω a 120°C.
 
 <div align="center">
 
