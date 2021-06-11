@@ -483,7 +483,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
   
 #  PROBLEMAS CAPÍTULO 4
 
-4.1 LEY DE OHM
+**4.1 LEY DE OHM**
 
 1.	Para el circuito de la figura 4.33, determine la corriente I para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: amperes, miliamperes, microamperes, etcétera.
 
@@ -495,7 +495,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 </div>
 
-3.- Para el circuito de la figura 4.33, calcule V para cada uno de los siguientes incisos:
+3. Para el circuito de la figura 4.33, calcule V para cada uno de los siguientes incisos:
 
 <div align="center">
   
@@ -503,7 +503,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 </div>
 
-5.- Cuando se conecta una lámpara eléctrica a un contacto de pared de 120V, requiere 1.25 A.
+5. Cuando se conecta una lámpara eléctrica a un contacto de pared de 120V, requiere 1.25 A.
 
 <div align="center">
     
@@ -511,7 +511,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 </div>
 
-7.-¿Cuánto voltaje se puede aplicar a un resistor de 560 Ω, si la corriente no debe exceder de 50mA?
+7. ¿Cuánto voltaje se puede aplicar a un resistor de 560 Ω, si la corriente no debe exceder de 50mA?
 
  <div align="center">
       
@@ -519,7 +519,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 </div>
 
-9.- En la figura 4-33, si E = 30V y la conductancia del resistor e de 0.2 S. ¿Cuál es el valor de I? Sugerencia véase la sección 3-11 en el capítulo 3
+9. En la figura 4-33, si E = 30V y la conductancia del resistor e de 0.2 S. ¿Cuál es el valor de I? Sugerencia véase la sección 3-11 en el capítulo 3
 
 <div align="center">
         
@@ -527,7 +527,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 </div>
 
-11.-La corriente a través de un resistor es de 15 mA. Si la caída de voltaje en el resistor es de 33 V, ¿Cuál es su código de colores?
+11. La corriente a través de un resistor es de 15 mA. Si la caída de voltaje en el resistor es de 33 V, ¿Cuál es su código de colores?
 
 <div align="center">
 
@@ -535,7 +535,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 </div>
 
-13.-En el circuito de la figura 4.34, si el resistor es reemplazado por otro con bandas roja, roja y negra ¿A qué voltaje cree que se funda el fusible?
+13. En el circuito de la figura 4.34, si el resistor es reemplazado por otro con bandas roja, roja y negra ¿A qué voltaje cree que se funda el fusible?
 
 <div align="center">
 
@@ -543,7 +543,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 </div>
 
-15.- Un electroimán se devana con alambre de cobre AWG 30. La bobina tiene 800 vueltas y la longitud promedio de cada una de las 3 pulgadas. Cuando se conecta una fuente de cd de 48V ¿Cuál es la corriente?
+15. Un electroimán se devana con alambre de cobre AWG 30. La bobina tiene 800 vueltas y la longitud promedio de cada una de las 3 pulgadas. Cuando se conecta una fuente de cd de 48V ¿Cuál es la corriente?
 
 <div align="center">
   
@@ -551,7 +551,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 </div>
 
-17.-Un elemento resistivo está hecho de 100 m de alambre de aluminio con un diámetro de 0.5 mm. Si la corriente a 20 °C es de 200 mA ¿Cuál es el voltaje aplicado?
+17. Un elemento resistivo está hecho de 100 m de alambre de aluminio con un diámetro de 0.5 mm. Si la corriente a 20 °C es de 200 mA ¿Cuál es el voltaje aplicado?
 
 <div align="center">
   
@@ -559,7 +559,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 </div>
 
-19.-La figura 4-35 representa la gráfica I-V para el circuito de la figura 4-33. ¿Cuál es el valor de R? 
+19. La figura 4-35 representa la gráfica I-V para el circuito de la figura 4-33. ¿Cuál es el valor de R? 
 
 <div align="center">
     
@@ -569,7 +569,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 </div>
 
-23.-Si 25m de alambre de nicromo con un diámetro de 0.1 mm se conectan a una batería de 12 V, ¿Cuál es la corriente a  20 °C?
+23. Si 25m de alambre de nicromo con un diámetro de 0.1 mm se conectan a una batería de 12 V, ¿Cuál es la corriente a  20 °C?
 
 <div align="center">
   
@@ -577,7 +577,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 </div>
 
-25.-Para cada resistor de la figura 4-36, determine el voltaje V y su polaridad o la corriente I, así como su dirección cuando sea posible.
+25. Para cada resistor de la figura 4-36, determine el voltaje V y su polaridad o la corriente I, así como su dirección cuando sea posible.
 
 <div align="center">
   
@@ -587,7 +587,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 **4.3 Potencia**
 
-27.- Un resistor disipa 723 joules de energía en 3 minutos y 47 segundos. Calcule la tasa a la cual la energía se transfiere a este resistor en joules por segundo. ¿Cuál es la energía disipada en watts?
+27. Un resistor disipa 723 joules de energía en 3 minutos y 47 segundos. Calcule la tasa a la cual la energía se transfiere a este resistor en joules por segundo. ¿Cuál es la energía disipada en watts?
 
 <div align="center">
   
@@ -595,7 +595,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 </div>
 
-29.-Un resistor obtiene 3 A de una batería de 12 V. ¿Cuánta potencia entrega la batería al resistor?
+29. Un resistor obtiene 3 A de una batería de 12 V. ¿Cuánta potencia entrega la batería al resistor?
 
 <div align="center">
   
@@ -603,7 +603,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 </div>
 
-31.-Un calentador eléctrico de 1.2 kW tiene una resistencia de 6 Ω. ¿Cuánta corriente requiere?
+31. Un calentador eléctrico de 1.2 kW tiene una resistencia de 6 Ω. ¿Cuánta corriente requiere?
 
 <div align="center">
   
@@ -611,7 +611,7 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 </div>
 
-33.-¿Cuántos volts se deben aplicar a un resistor de 3 Ω para que resulte una disipación de potencia de 752 W?
+33. ¿Cuántos volts se deben aplicar a un resistor de 3 Ω para que resulte una disipación de potencia de 752 W?
 
 <div align="center">
   
@@ -844,7 +844,7 @@ Porque la Intensidad en **b** es mayor que la intensidad en **a** al igual que s
 
 **4-8 Análisis de circuitos con ayuda de la computadora**
 
-69.Establezca el circuito de la figura 4-33 y resuelva para las corrientes dado elpar voltaje /resistencia del problema 1a, 1c, 1d y 1e.
+69. Establezca el circuito de la figura 4-33 y resuelva para las corrientes dado elpar voltaje /resistencia del problema 1a, 1c, 1d y 1e.
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84587293/121694637-e8cfd200-ca8f-11eb-8950-9a8ae52f1856.png)
