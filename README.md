@@ -127,8 +127,7 @@ d. 0.5 cm
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/121292702-047c8200-c8b0-11eb-8b53-29dc74fbc6d2.png) ![image](https://user-images.githubusercontent.com/84430867/121704880-c642b680-ca99-11eb-9531-1f8b27e4a18d.png)
-
+![image](https://user-images.githubusercontent.com/84430867/121705246-10c43300-ca9a-11eb-86d0-797b6e39937f.png)
   
 </div>
 
@@ -136,7 +135,7 @@ d. 0.5 cm
 
 <div align="center">
 
-
+![image](https://user-images.githubusercontent.com/84430867/121705538-584abf00-ca9a-11eb-91a5-d19fe199fddc.png)
  
 </div>
 
@@ -144,7 +143,7 @@ d. 0.5 cm
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/121292853-40174c00-c8b0-11eb-89c3-4ebfa5a126c3.png) 
+![image](https://user-images.githubusercontent.com/84430867/121705730-90520200-ca9a-11eb-82ec-161f6f290e32.png)
   
 </div>
 
@@ -154,35 +153,31 @@ d. 0.5 cm
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/121292953-6937dc80-c8b0-11eb-8789-4f69e43a6a7b.png)  
+  ![image](https://user-images.githubusercontent.com/84587293/121293001-866cab00-c8b0-11eb-8036-8ced9ff52c2b.png)
   
+![image](https://user-images.githubusercontent.com/84587293/121293080-a69c6a00-c8b0-11eb-82eb-a401e49fcc1f.pn
+
 </div>
 
 13. Determine la máxima corriente que puede conducir un alambre AWG 19 yuno AWG 30.
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/121293001-866cab00-c8b0-11eb-8036-8ced9ff52c2b.png)
-
+![image](https://user-images.githubusercontent.com/84587293/121293057-9a181180-c8b0-11eb-932f-f9c9d94fe5ba.png)
+  
 </div>
 
 15. Se determina que un carrete de alambre de transformador de cobre AWG 36tiene una resistencia de 550 a una temperatura de 20°C. ¿Cuánto mide elalambre en metros?
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/121293057-9a181180-c8b0-11eb-932f-f9c9d94fe5ba.png)
+![image](https://user-images.githubusercontent.com/84430867/121706439-3ef64280-ca9b-11eb-9aa8-53b44dc1cdf9.png)
 
 </div>
 
 **3-3 Resistencia de alambres: milésima circular**
 
 17. Determine el área en milésimas circulares de los siguientes conductores (T 20°C):
-
-<div align="center">
-
-![image](https://user-images.githubusercontent.com/84587293/121293080-a69c6a00-c8b0-11eb-82eb-a401e49fcc1f.png)  
-  
-</div>
 
 a. Alambre circular con un diámetro de 0.016 pulgadas
 
@@ -212,7 +207,9 @@ c. Barra colectora rectangular de 0.25 x 6.0 pulgadas
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/121293574-75706980-c8b1-11eb-8aea-26f308dfd7a7.png)  
+![image](https://user-images.githubusercontent.com/84430867/121706908-af04c880-ca9b-11eb-9417-c26601bd8891.png)
+
+![image](https://user-images.githubusercontent.com/84430867/121706875-a613f700-ca9b-11eb-8c7b-a2851e120ea7.png)
   
 </div>
 
@@ -258,7 +255,9 @@ b. Calcule la longitud del alambre en pies.
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/121293888-08a99f00-c8b2-11eb-964d-5e72426e229e.png)  
+![image](https://user-images.githubusercontent.com/84430867/121707372-1ae73100-ca9c-11eb-9e04-3a390f60eee1.png)
+  
+![image](https://user-images.githubusercontent.com/84430867/121707424-26d2f300-ca9c-11eb-905e-842b7e8564ee.png)
   
 </div>
 
@@ -268,7 +267,7 @@ a. ¿El material tiene un coeﬁciente de temperatura positivo o negativo? Ex-pl
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/121294025-4f979480-c8b2-11eb-9e06-4b58ddc5091c.png)   
+![image](https://user-images.githubusercontent.com/84430867/121707540-4702b200-ca9c-11eb-8c43-66909ae5752c.png) 
   
 </div>
 
@@ -276,7 +275,7 @@ b. Determine al valor del coeﬁciente de temperatura,a ,a 20°C.
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/121294186-95ecf380-c8b2-11eb-8e3d-4e8c13f9b4ad.png)  
+![image](https://user-images.githubusercontent.com/84430867/121707596-53870a80-ca9c-11eb-9904-bc9da72bd179.png)
   
 </div>
 
@@ -284,7 +283,7 @@ c. Suponga que la función de resistencia frente a temperatura es lineal y de-te
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/121294224-a00ef200-c8b2-11eb-86b1-9ba710ea99f8.png)
+![image](https://user-images.githubusercontent.com/84430867/121707627-5d107280-ca9c-11eb-894e-260bfef4d2b3.png)
   
 </div>
 
