@@ -30,6 +30,14 @@ Ing. Darwin Omar Alulema Flores
 
 # 1.OBJETIVOS
 
+•	Calcular el voltaje, la corriente y la resistencia  en circuitos simples utilizando la ley de Ohm.
+
+•	Describir cómo el voltaje, la corriente y la potencia se relacionan en un circuito resistivo.
+
+•	Calcular la energía usada por cargas eléctricas 
+
+•	Determinar la potencia disipada por cualquier resistor en un circuito en serie y demostrar que la potencia total disipada es exactamente igual a la potencia entregada por la fuente de voltaje.
+
 # 2. MARCO TEORICO
 
 **CAPITULO III**
@@ -884,6 +892,22 @@ b. El cursor se puede posicionar usado el ratón o las teclas de ﬂecha izquier
 # 4. VIDEO
 
 # 5. CONCLUSIONES
+
+•	Aislantes: son materiales con gran resistencia eléctrica como lo son, por ejemplo, el plástico y la cerámica.
+
+•	Conductores: permiten el libre flujo de los electrones debido a su baja resistencia eléctrica. Los metales, en general, son grandes conductores.
+
+•	El grosor: mientras más grueso el conductor menor es la resistencia.
+
+•	La largura: mientras más largo, mayor es la resistencia.
+
+•	La conductividad: mientras menor es la resistividad, mayor será la conductividad.
+
+•	La temperatura: a mayor temperatura, mayor será la resistencia.
+
+•	Aislantes: son materiales con gran resistencia eléctrica como lo son, por ejemplo, el plástico y la cerámica.
+
+•	Conductores: permiten el libre flujo de los electrones debido a su baja resistencia eléctrica. Los metales, en general, son grandes conductores
 
 # 6. BIBLIOGRAFÍAS
 
