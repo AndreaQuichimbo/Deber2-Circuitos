@@ -539,6 +539,8 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
   
 ![17 -](https://user-images.githubusercontent.com/84587172/121589405-a1e4cc80-c9fc-11eb-9e98-a00f0723c5ba.png)
 
+</div>
+
 19.-La figura 4-35 representa la gráfica I-V para el circuito de la figura 4-33. ¿Cuál es el valor de R? 
 
 <div align="center">
