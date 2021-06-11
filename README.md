@@ -333,6 +333,8 @@ c. Determine la intercepción de temperatura del material.
 
 <div align="center">
 
+![image](https://user-images.githubusercontent.com/84587293/121625642-78966180-ca39-11eb-8b5d-5ffa71726772.png)
+
 ![image](https://user-images.githubusercontent.com/84587293/121625170-931c0b00-ca38-11eb-998f-0c699f75bc35.png)  
   
 </div>
