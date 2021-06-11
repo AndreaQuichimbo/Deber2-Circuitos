@@ -155,7 +155,7 @@ d. 0.5 cm
 
   ![image](https://user-images.githubusercontent.com/84587293/121293001-866cab00-c8b0-11eb-8036-8ced9ff52c2b.png)
   
-![image](https://user-images.githubusercontent.com/84587293/121293080-a69c6a00-c8b0-11eb-82eb-a401e49fcc1f.pn
+![image](https://user-images.githubusercontent.com/84587293/121293080-a69c6a00-c8b0-11eb-82eb-a401e49fcc1f.png)
 
 </div>
 
