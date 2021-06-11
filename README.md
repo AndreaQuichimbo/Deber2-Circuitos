@@ -299,7 +299,7 @@ c. Suponga que la función de resistencia frente a temperatura es lineal y de-te
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121625296-cc547b00-ca38-11eb-8d88-954ee0a37daf.png)  
   
 </div>
 
