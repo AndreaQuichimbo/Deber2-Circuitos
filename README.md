@@ -852,6 +852,8 @@ Porque la Intensidad en **b** es mayor que la intensidad en **a** al igual que s
 
 # 4. VIDEO
 
+https://youtu.be/HWHbFu4E_Is
+
 # 5. CONCLUSIONES
 
 •	Aislantes: son materiales con gran resistencia eléctrica como lo son, por ejemplo, el plástico y la cerámica.
