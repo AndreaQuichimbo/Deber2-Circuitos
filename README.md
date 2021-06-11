@@ -117,9 +117,9 @@ d. 0.5 cm
 
 <div align="center">
 
-  ![image](https://user-images.githubusercontent.com/84587293/121292402-83bd8600-c8af-11eb-9b4d-28d629435a9d.png)
+ ![image](https://user-images.githubusercontent.com/84587293/121292402-83bd8600-c8af-11eb-9b4d-28d629435a9d.png)
   
-  ![image](https://user-images.githubusercontent.com/84587293/121623898-2a339380-ca36-11eb-8e12-6e9e9d7242a6.png)
+ ![image](https://user-images.githubusercontent.com/84587293/121292552-c2ebd700-c8af-11eb-84d6-dd6d25b7065a.png)  
 
 </div>
 
@@ -127,7 +127,8 @@ d. 0.5 cm
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/121292552-c2ebd700-c8af-11eb-84d6-dd6d25b7065a.png)  
+![image](https://user-images.githubusercontent.com/84587293/121292702-047c8200-c8b0-11eb-8b53-29dc74fbc6d2.png) ![image](https://user-images.githubusercontent.com/84430867/121704880-c642b680-ca99-11eb-9531-1f8b27e4a18d.png)
+
   
 </div>
 
@@ -135,7 +136,7 @@ d. 0.5 cm
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/121292702-047c8200-c8b0-11eb-8b53-29dc74fbc6d2.png)
+
  
 </div>
 
