@@ -819,7 +819,7 @@ a. En V = 25 V, ¿cuánto valen I y Rcd?
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121627273-a6c97080-ca3c-11eb-8214-d4c8d828ff5e.png)  
   
 </div>
 
@@ -827,7 +827,7 @@ b. En V= 60 V, ¿cuánto valen I y Rcd?
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121627309-b943aa00-ca3c-11eb-8488-fb9968cc172b.png)  
   
 </div>
 
