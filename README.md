@@ -75,7 +75,7 @@ Ing. Darwin Omar Alulema Flores
   
 </div>
 
-# **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+# **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 # Problemas Capitulo  III
 
