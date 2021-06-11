@@ -307,7 +307,7 @@ a. Calcule la resistencia a una temperatura de 0°C.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121625028-49cbbb80-ca38-11eb-82b2-9632c7049f4a.png)  
   
 </div>
 
@@ -315,7 +315,7 @@ b. Calcule la resistencia a una temperatura de 80°C.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121625066-5e0fb880-ca38-11eb-91d1-e4265207b0e8.png)  
   
 </div>
 
@@ -323,7 +323,7 @@ c. Determine la intercepción de temperatura del material.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121625101-68ca4d80-ca38-11eb-9f38-a326387dfebf.png)  
   
 </div>
 
@@ -333,7 +333,7 @@ c. Determine la intercepción de temperatura del material.
 
 <div align="center">
 
-  
+![image](https://user-images.githubusercontent.com/84587293/121625170-931c0b00-ca38-11eb-998f-0c699f75bc35.png)  
   
 </div>
 
