@@ -423,14 +423,6 @@ d. Naranja Blanco Negro Oro Rojo
 
 Se determina a través de óhmetro realizando una conexión entre las terminales, el óhmetro indica una conexión abierta la bombilla esta fundida. 
 
-38. Si un óhmetro fuera colocado entre las terminales de un interruptor,¿qué resistencia esperaría medir cuando los contactos del interruptor estén cerrados ycuando estén abiertos?
-
-<div align="center">
-
-  
-  
-</div>
-
 39. Explique cómo podría usar un óhmetro para determinar aproximadamentecuánto cable queda en un carrete de alambre de cobre AWG 24.
 
 En la tabla se puede observar que la resistencia del alambre AWG24 tiene una resistencia de 25.7 ohms/1000 pies se podría medir la resistencia entre los extremos y calcular la longitud.
