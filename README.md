@@ -447,18 +447,29 @@ En la tabla se puede observar que la resistencia del alambre AWG24 tiene una res
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/121431009-78656b80-c93e-11eb-8fa9-b2ce79fe564c.png)
+![image](https://user-images.githubusercontent.com/84587293/121628455-dd07ef80-ca3e-11eb-9d57-ed3c9267865f.png)
     
 </div>
 
-a. Determine la resistencia del dispositivo a temperatura ambiente,20°C.b.Determine la resistencia del dispositivo a 40°C.c.¿El termistor tiene un coeﬁciente de temperatura positivo o negativo?Explique.
+a. Determine la resistencia del dispositivo a temperatura ambiente,20°C.
 
 <div align="cnte*r">
 
-  
+380 Ω 
   
 </div>
 
+b.Determine la resistencia del dispositivo a 40°C.
+
+<div align="cnte*r">
+
+ 180 Ω 
+  
+</div>
+
+c.¿El termistor tiene un coeﬁciente de temperatura positivo o negativo?Explique.
+
+Coeficiente de temperatura negativo. La resistencia disminuye conforme se incrementa la temperatura.
 
 **3.11 Conductancia**
 
