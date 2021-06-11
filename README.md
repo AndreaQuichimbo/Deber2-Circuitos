@@ -139,7 +139,7 @@ d. 0.5 cm
  
 </div>
 
-9. Una sección de 2500 m de alambre de aleación tiene una resistencia de 32  .Si el alambre tiene un diámetro de 1.5 mm,determine la resistividad del ma-terial en ohm-metros. ¿La aleación es mejor conductora que el cobre?
+9. Una sección de 2500 m de alambre de aleación tiene una resistencia de 32 Ω .Si el alambre tiene un diámetro de 1.5 mm,determine la resistividad del ma-terial en ohm-metros. ¿La aleación es mejor conductora que el cobre?
 
 <div align="center">
 
