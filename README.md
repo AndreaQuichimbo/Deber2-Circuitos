@@ -435,7 +435,11 @@ Se determina a través de óhmetro realizando una conexión entre las terminales
 
 En la tabla se puede observar que la resistencia del alambre AWG24 tiene una resistencia de 25.7 ohms/1000 pies se podría medir la resistencia entre los extremos y calcular la longitud.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/121430693-0725b880-c93e-11eb-9314-7d2b6901fbaf.png)
+
+</div>
 
 **3-8 Termistores**
 
@@ -456,7 +460,7 @@ a. Determine la resistencia del dispositivo a temperatura ambiente,20°C.b.Deter
 </div>
 
 
-3.11 Conductancia
+**3.11 Conductancia**
 
 <div align="center">
 
