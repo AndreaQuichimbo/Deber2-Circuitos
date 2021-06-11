@@ -850,62 +850,6 @@ c. ¿Por qué los dos valores son diferentes?
 
 Porque la Intensidad en **b** es mayor que la intensidad en **a** al igual que sus resistencias .
 
-**4-8 Análisis de circuitos con ayuda de la computadora**
-
-69. Establezca el circuito de la ﬁgura 4-33 y resuelva para las corrientes dado elpar voltaje/resistencia del problema 1a, 1c, 1d y 1e.
-
-<div align="center">
-
-  
-  
-</div>
-
- 
-71.Haga clic en Coloca (Place) en la barra de menú; haga clic en Componente (Component); de la lista de Grupo (Group), seleccione Básico (Basic), desplácese hacia abajo y haga clic en Interruptor (Switch); seleccione SPDT, entonces haga clic en OK. Coloque en la pantalla y haga doble clic en susímbolo. Cuando la caja de diálogo se abra, seleccione la etiqueta Valor (Value), tecleé la letra A y haga clic en OK. 
-[ Esto reetiqueta el interruptor como (A). Presione la tecla A varias veces y observe que el interruptor abre ycierra.] Seleccione un segundo interruptor y etiquételo (B). Agregue unafuente de cd de 12 V y una lámpara. Para agregar la lámpara haga clic en Co-loca/Componente (Place/Component) y a partir de la caja de Grupo (Group), seleccione Lámpara_virtual (Virtual_lamp). Arme el circuito de la ﬁgura2-27, opere los interruptores y determine si consiguió exitosamente el controlde dos vías.
-
-<div align="center">
-
-  
-  
-</div>
-
-73. Repita el problema 70 con PSpice.
-
-<div align="center">
-
-  
-  
-</div>
-
-75. El cursor puede usarse para leer valores desde las gráﬁcas de PSpice. Obtengala gráﬁca del problema 74 en la pantalla y:
-
-<div align="center">
-
-  
-  
-</div>
-
-a. Haga clic en Trazar (Trace) en la barra de menú, seleccione Cursor, haga clic en Despliegue (Display), entonces posicione el cursor en la gráﬁca y de nuevo haga clic. La lectura del cursor está indicada en la caja en la esquina inferior derecha de la pantalla.
-
-<div align="center">
-
-  
-  
-</div>
-
-b. El cursor se puede posicionar usado el ratón o las teclas de ﬂecha izquierda y derecha. Posicione el cursor en 2 V y lea la corriente. Verifíquelo mediante la ley de Ohm. Coteje el valor en otros puntos tanto positivoscomo negativos
-
-<div align="center">
-
-  
-  
-</div>
-
-
-
-
-
 # 4. VIDEO
 
 # 5. CONCLUSIONES
