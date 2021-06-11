@@ -479,72 +479,134 @@ Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
 3.- Para el circuito de la figura 4.33, calcule V para cada uno de los siguientes incisos:
 
+<div align="center">
+  
 ![3](https://user-images.githubusercontent.com/84587172/121588406-7dd4bb80-c9fb-11eb-95de-14a3fc96d964.png)
+
+</div>
 
 5.- Cuando se conecta una lámpara eléctrica a un contacto de pared de 120V, requiere 1.25 A.
 
+<div align="center">
+    
 ![5](https://user-images.githubusercontent.com/84587172/121588641-c68c7480-c9fb-11eb-9863-525b2a8d9080.png)
+
+</div>
 
 7.-¿Cuánto voltaje se puede aplicar a un resistor de 560 Ω, si la corriente no debe exceder de 50mA?
 
+ <div align="center">
+      
 ![7](https://user-images.githubusercontent.com/84587172/121588750-e91e8d80-c9fb-11eb-8d71-cb84c9fc27cd.png)
+
+</div>
 
 9.- En la figura 4-33, si E = 30V y la conductancia del resistor e de 0.2 S. ¿Cuál es el valor de I? Sugerencia véase la sección 3-11 en el capítulo 3
 
+<div align="center">
+        
 ![9](https://user-images.githubusercontent.com/84587172/121588884-0bb0a680-c9fc-11eb-9368-6a385d508a0c.png)
+
+</div>
 
 11.-La corriente a través de un resistor es de 15 mA. Si la caída de voltaje en el resistor es de 33 V, ¿Cuál es su código de colores?
 
+<div align="center">
+
 ![11](https://user-images.githubusercontent.com/84587172/121588993-2be06580-c9fc-11eb-83d2-61073ac89f3b.png)
+
+</div>
 
 13.-En el circuito de la figura 4.34, si el resistor es reemplazado por otro con bandas roja, roja y negra ¿A qué voltaje cree que se funda el fusible?
 
+<div align="center">
+
 ![13](https://user-images.githubusercontent.com/84587172/121589072-43b7e980-c9fc-11eb-9224-6dfd379e9c30.png)
+
+</div>
 
 15.- Un electroimán se devana con alambre de cobre AWG 30. La bobina tiene 800 vueltas y la longitud promedio de cada una de las 3 pulgadas. Cuando se conecta una fuente de cd de 48V ¿Cuál es la corriente?
 
+<div align="center">
+  
 ![15](https://user-images.githubusercontent.com/84587172/121589243-77930f00-c9fc-11eb-9a29-a3eab4a9a5bc.png)
+
+</div>
 
 17.-Un elemento resistivo está hecho de 100 m de alambre de aluminio con un diámetro de 0.5 mm. Si la corriente a 20 °C es de 200 mA ¿Cuál es el voltaje aplicado?
 
+<div align="center">
+  
 ![17 -](https://user-images.githubusercontent.com/84587172/121589405-a1e4cc80-c9fc-11eb-9e98-a00f0723c5ba.png)
 
 19.-La figura 4-35 representa la gráfica I-V para el circuito de la figura 4-33. ¿Cuál es el valor de R? 
 
+<div align="center">
+    
 ![19](https://user-images.githubusercontent.com/84587172/121589554-ce004d80-c9fc-11eb-895a-b03b4cc0fb32.png)
 
 ![21](https://user-images.githubusercontent.com/84587172/121589620-e6706800-c9fc-11eb-88fb-3293079e34a1.png)
 
+</div>
+
 23.-Si 25m de alambre de nicromo con un diámetro de 0.1 mm se conectan a una batería de 12 V, ¿Cuál es la corriente a  20 °C?
 
+<div align="center">
+  
 ![23](https://user-images.githubusercontent.com/84587172/121589680-fab46500-c9fc-11eb-8217-f20fa7a53512.png)
+
+</div>
 
 25.-Para cada resistor de la figura 4-36, determine el voltaje V y su polaridad o la corriente I, así como su dirección cuando sea posible.
 
+<div align="center">
+  
 ![25](https://user-images.githubusercontent.com/84587172/121589796-1ddf1480-c9fd-11eb-901d-d18dc6d08b6e.png)
 
-4.3 Potencia
+</div>
+
+**4.3 Potencia**
 
 27.- Un resistor disipa 723 joules de energía en 3 minutos y 47 segundos. Calcule la tasa a la cual la energía se transfiere a este resistor en joules por segundo. ¿Cuál es la energía disipada en watts?
 
+<div align="center">
+  
 ![27](https://user-images.githubusercontent.com/84587172/121589893-3d763d00-c9fd-11eb-8a0b-09e8cca42819.png)
+
+</div>
 
 29.-Un resistor obtiene 3 A de una batería de 12 V. ¿Cuánta potencia entrega la batería al resistor?
 
-![29](https://user-images.githubusercontent.com/84587172/121589967-58e14800-c9fd-11eb-80d5-a4c238b5cd24.png)
+<div align="center">
+  
+  ![29](https://user-images.githubusercontent.com/84587172/121589967-58e14800-c9fd-11eb-80d5-a4c238b5cd24.png)
+
+</div>
 
 31.-Un calentador eléctrico de 1.2 kW tiene una resistencia de 6 Ω. ¿Cuánta corriente requiere?
 
-![31](https://user-images.githubusercontent.com/84587172/121590034-70b8cc00-c9fd-11eb-8aee-2a6348834214.png)
+<div align="center">
+  
+  ![31](https://user-images.githubusercontent.com/84587172/121590034-70b8cc00-c9fd-11eb-8aee-2a6348834214.png)
+
+</div>
 
 33.-¿Cuántos volts se deben aplicar a un resistor de 3 Ω para que resulte una disipación de potencia de 752 W?
 
-![33](https://user-images.githubusercontent.com/84587172/121590088-8201d880-c9fd-11eb-9857-1304a831625e.png)
+<div align="center">
+  
+  ![33](https://user-images.githubusercontent.com/84587172/121590088-8201d880-c9fd-11eb-9857-1304a831625e.png)
+
+</div>
 
 35.-Un resistor con bandas café, negro y naranja disipa 0.25 W. Calcule su voltaje y su corriente
 R = 10 000 Ω = 10 k Ω
 
-![35](https://user-images.githubusercontent.com/84587172/121590154-980f9900-c9fd-11eb-9c88-6cc348b1358e.png)
+<div align="center">
+  
+  ![35](https://user-images.githubusercontent.com/84587172/121590154-980f9900-c9fd-11eb-9c88-6cc348b1358e.png)
+
+</div>
 
 37. Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V?
 
