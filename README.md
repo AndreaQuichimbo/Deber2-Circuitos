@@ -447,23 +447,35 @@ a. Determine la resistencia del dispositivo a temperatura ambiente,20°C.b.Deter
 
 3.11 Conductancia
 
+<div align="center">
+
 ![43](https://user-images.githubusercontent.com/84587172/121587577-9690a180-c9fa-11eb-89a2-88ec0951d683.png)
 
+ </div>
+ 
 45.-Determine la conductancia de 1000 m de alambre de cobre solido AWG 30 a una temperatura de 20 °C.
 Tamaño AWG = 30
 Resistencia: 104 Ω por cada 1000 pies a 20 °C.
 
+<div align="center">
+  
 ![45](https://user-images.githubusercontent.com/84587172/121587759-c2138c00-c9fa-11eb-9c71-8d1c6859e7c9.png)
 
+  </div>
+  
 #  PROBLEMAS CAPÍTULO 4
 
 4.1 LEY DE OHM
 
 1.	Para el circuito de la figura 4.33, determine la corriente I para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: amperes, miliamperes, microamperes, etcétera.
 
+<div align="center">
+
 ![image](https://user-images.githubusercontent.com/84587172/121588064-1585da00-c9fb-11eb-9ed7-54df091f2f75.png)
 
 ![1](https://user-images.githubusercontent.com/84587172/121588266-554cc180-c9fb-11eb-9cb6-eac6b4702172.png)
+
+</div>
 
 3.- Para el circuito de la figura 4.33, calcule V para cada uno de los siguientes incisos:
 
@@ -641,7 +653,7 @@ d. Un cautín de 120 V y 288 por 24 minutos.
 El total a pagar es de 26,03 centavos
 
 51. Mientras el dispositivo del problema 50 opera,otras dos cargas también lo hacen:
-52. 
+
 a. un calentador de 4 kW,de forma continua.
 
 <div align="center">
