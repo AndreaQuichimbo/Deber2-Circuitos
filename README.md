@@ -850,10 +850,15 @@ c. ¿Por qué los dos valores son diferentes?
 
 Porque la Intensidad en **b** es mayor que la intensidad en **a** al igual que sus resistencias .
 
-69.Establezca el circuito de la figura 4-33 y resuelva para las corrientes dado elpar voltaje /resistencia del problema 1a, 1c, 1d y 1e.
+**4-8 Análisis de circuitos con ayuda de la computadora**
 
+69.Establezca el circuito de la figura 4-33 y resuelva para las corrientes dado elpar voltaje /resistencia del problema 1a, 1c, 1d y 1e.
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/121694637-e8cfd200-ca8f-11eb-8950-9a8ae52f1856.png)
 
+  </div>
+  
 71. Haga clic en Coloca (Place) en la barra de menú; haga clic en Componente
 (Component); de la lista de Grupo (Group), seleccione Básico (Basic), desplácese hacia abajo y haga clic en Interruptor (Switch); seleccione SPDT, entonces haga clic en OK. Coloque en la pantalla y haga doble clic en su
 símbolo. Cuando la caja de diálogo se abra, seleccione la etiqueta Valor
@@ -865,8 +870,12 @@ seleccione Lámpara_virtual (Virtual_lamp). Arme el circuito de la figura
 2-27, opere los interruptores y determine si consiguió exitosamente el control
 de dos vías. 
 
+  <div align="center">
+    
 ![image](https://user-images.githubusercontent.com/84587293/121695649-dbffae00-ca90-11eb-95f0-5c77d51edb75.png)
 
+  </div>
+  
 # 4. VIDEO
 
 https://youtu.be/HWHbFu4E_Is
