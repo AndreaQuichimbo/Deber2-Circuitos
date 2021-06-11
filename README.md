@@ -121,6 +121,8 @@ d. 0.5 cm
 
   ![image](https://user-images.githubusercontent.com/84587293/121292402-83bd8600-c8af-11eb-9b4d-28d629435a9d.png)
   
+  ![image](https://user-images.githubusercontent.com/84587293/121623898-2a339380-ca36-11eb-8e12-6e9e9d7242a6.png)
+
 </div>
 
 5. Un alambre de cobre con un diámetro de 0.80 mm tiene una resistencia de10.3 a 20°C. ¿Cuanto mide el alambre en metros y en pies?
